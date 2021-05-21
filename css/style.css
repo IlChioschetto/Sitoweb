@@ -253,7 +253,7 @@ h2 {
   margin-bottom: 10px;
 }
 
-.text-block .fab { 
+.text-block .fab:hover { 
   font-size: 35px;
 }
 
