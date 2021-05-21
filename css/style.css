@@ -253,6 +253,10 @@ h2 {
   margin-bottom: 10px;
 }
 
+.text-block .fab { 
+  font-size: 35px;
+}
+
 .icon { /* grafica icone */
   font-size: 40px;
   margin: 20px auto;
