@@ -670,6 +670,16 @@ p.time-1 {
   border-radius: 0px;
 }
 
+#gallery .modal-header {
+  padding: 8px;
+  border-bottom: 0px;
+}
+
+#gallery .modal-body {
+    padding: 0px 8px 8px 8px;
+}
+
+
 /* DOCUMENTAZIONE */
 #doc-img {
   background-image: url(../img/doc.jpg);
