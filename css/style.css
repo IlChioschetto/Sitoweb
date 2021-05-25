@@ -1,5 +1,6 @@
 body{
   font-family: 'Sansita', sans-serif; /* diamo un particolare font al corpo del sito */
+  scroll-behavior: smooth;
   color: black;
 }
 
