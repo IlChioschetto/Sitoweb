@@ -1,6 +1,5 @@
 body{
   font-family: 'Sansita', sans-serif; /* diamo un particolare font al corpo del sito */
-  scroll-behavior: smooth;
   color: black;
 }
 
@@ -703,7 +702,6 @@ p.time-1 {
   margin-left: auto !important;
 }
 
-
 #doc h3 {
   font-family: 'Sansita', sans-serif !important;
 }
@@ -737,6 +735,17 @@ p.time-1 {
 
 .nomargin {
   margin: 0px;
+}
+
+#doc .insta img {
+  width: 70%;
+  margin-bottom: 15px;
+}
+
+#doc .analytics {
+  width: 580px;
+  height: 430px;
+  margin-bottom: 15px;
 }
 
 @media screen and (max-width: 768px){ /* modifica grafica per iPad */
@@ -1057,6 +1066,15 @@ p.time-1 {
   
   #doc .zoom img {
     margin: 10px 0px;
+  }
+  
+  #doc .analytics {
+    width: 300px;
+    height: 200px;
+  }
+
+  #doc .insta img {
+    width: 100%;
   }
 }
 
