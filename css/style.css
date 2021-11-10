@@ -233,8 +233,8 @@ h2 {
   width: 80%;
 }
 
-#info .final p {
-  margin-bottom: 0px !important;
+#info .final .tripadvisor {
+  margin-bottom: 0rem !important;
 }
 
 #info a img {
