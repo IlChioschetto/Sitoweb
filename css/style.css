@@ -233,10 +233,10 @@ h2 {
   width: 80%;
 }
 
-#info img {
+#info a img {
   width: 3% !important;
 }
-#info img:hover {
+#info a img:hover {
   width: 5%;
 }
 
