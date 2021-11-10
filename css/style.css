@@ -233,14 +233,18 @@ h2 {
   width: 80%;
 }
 
-#info .final .tripadvisor {
-  margin-bottom: 0rem !important;
+#info .final p{
+  margin-bottom: 0px !important;
 }
 
 #info a img {
   width: 3% !important;
 }
 
+#info img:hover{
+  width: 4% !important;
+  background-color: #00b850;
+}
 
 .text-block {
   background-color: white;
