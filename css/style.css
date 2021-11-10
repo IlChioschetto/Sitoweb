@@ -718,6 +718,19 @@ p.time-1 {
   #info .container-fluid {
     width: 95%;
   }
+  
+  #info .final p{
+  margin-bottom: 0px !important;
+}
+
+#info a img {
+  width: 3% !important;
+}
+
+#info img:hover{
+  width: 3.5% !important;
+}
+  
   /*modifiche pagina chi siamo*/ 
   #about {
     background-attachment: fixed;
@@ -800,6 +813,18 @@ p.time-1 {
   #info .container-fluid {
     width: 90%;
   }
+  
+  #info .final p{
+  margin-bottom: 0px !important;
+}
+
+#info a img {
+  width: 3% !important;
+}
+
+#info img:hover{
+  width: 3.5% !important;
+}
 
   #info h3 {
     padding-top: 10px;
