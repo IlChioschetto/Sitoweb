@@ -242,8 +242,8 @@ h2 {
 }
 
 #info img:hover{
-  width: 4% !important;
-  background-color: #00b850;
+  width: 3.5% !important;
+  color: #00b850;
 }
 
 .text-block {
@@ -693,74 +693,6 @@ p.time-1 {
 }
 
 
-/* DOCUMENTAZIONE */
-#doc-img {
-  background-image: url(../img/doc.jpg);
-  background-size: cover;
-  background-position: top;
-  padding-top: 350px;
-  padding-bottom: 150px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-#doc {
-  margin: 40px 0px;
-}
-
-#doc .container-fluid {
-  width: 80%;
-  margin: 20px 0px;
-  margin-right: auto !important;
-  margin-left: auto !important;
-}
-
-#doc h3 {
-  font-family: 'Sansita', sans-serif !important;
-}
-
-#doc h5 {
-  text-decoration: underline;
-}
-
-.schema {
-  margin: 20px 0px;
-  width: 500px;
-  height:300px;
-}
-
-#doc col{
-  width: 33%;
-}
-
-#doc .zoom img {
-  margin: 35px 0px;
-  width: 100%;
-}
-
-#doc .zoom img:hover {
-  transform: scale(1.1); 
-}
-
-#doc a {
-  color: blue !important;
-}
-
-.nomargin {
-  margin: 0px;
-}
-
-#doc .insta img {
-  width: 70%;
-  margin-bottom: 15px;
-}
-
-#doc .analytics {
-  width: 580px;
-  height: 430px;
-  margin-bottom: 15px;
-}
-
 @media screen and (max-width: 768px){ /* modifica grafica per iPad */
   .inizio .carousel img {
     height: 400px;
@@ -822,13 +754,6 @@ p.time-1 {
   #pdf {
     padding-bottom: 25px;
     margin-bottom: 0px;
-  }
-  
-  /* DOCUMENTAZIONE */
-   #doc-img {
-    background-image: url(../img/doc1.jpg);
-    padding-top: 270px;
-    padding-bottom: 150px;
   }
 }
 
@@ -1055,39 +980,6 @@ p.time-1 {
 
   #pdf h4 {
     font-size: 25px;
-  }
-  
-  /* DOCUMENTAZIONE */
-  #doc .container-fluid {
-    width: 90%;
-  }
-  
-  .schema {
-    width: 300px;
-    height: 200px;
-  }
-  
-  #doc-img h1 {
-    font-size: 40px !important;
-  }
-  
-  #doc-img {
-    background-image: url(../img/doc1.jpg);
-    padding-top: 140px;
-    padding-bottom: 80px;
-  }
-  
-  #doc .zoom img {
-    margin: 10px 0px;
-  }
-  
-  #doc .analytics {
-    width: 300px;
-    height: 200px;
-  }
-
-  #doc .insta img {
-    width: 100%;
   }
 }
 
