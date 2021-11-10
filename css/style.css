@@ -237,7 +237,7 @@ h2 {
   width: 3% !important;
 }
 #info a img:hover {
-  width: 5%;
+  width: 5% !important;
 }
 
 .text-block {
