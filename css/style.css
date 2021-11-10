@@ -234,7 +234,10 @@ h2 {
 }
 
 #info img {
-  width: 50%;
+  width: 3% !important;
+}
+#info img:hover {
+  width: 5%;
 }
 
 .text-block {
